@@ -1,0 +1,22 @@
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Plugin build junk
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# OS junk
+.DS_Store
+Thumbs.db
